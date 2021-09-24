@@ -1,0 +1,8 @@
+# ignore self
+# .gitignore
+
+# Tutorials
+tutorials
+
+# node_modules
+**/*/node_modules
