@@ -62,9 +62,9 @@ Project developed during **Ignite Development Program** offered by [Rocketseat](
 Please follow the hyperlinks for the challenge solutions.
 
 **Chapter I**
-- [x] [Challenge: NodeJS Fundamentals](https://github.com/andregda/ignite-nodejs/tree/main/desafios/D1.1)
-- [ ] Challenge: Working with Middlewares
-- [ ] Challenge: Correcting the code
+- [x] [Challenge: NodeJS Fundamentals](https://github.com/andregda/ignite-nodejs/tree/main/challenges/D1.1)
+- [x] [Challenge: Working with Middlewares](https://github.com/andregda/ignite-nodejs/tree/main/challenges/D1.2)
+- [x] [Challenge: Correcting the code](https://github.com/andregda/ignite-nodejs/tree/main/challenges/D1.3)
 
 **Chapter II**
 - [ ] Challenge: Introduction to SOLID

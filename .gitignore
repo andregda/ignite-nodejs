@@ -6,3 +6,6 @@ tutorials
 
 # node_modules
 **/*/node_modules
+
+# git stff
+**/*/.git*
