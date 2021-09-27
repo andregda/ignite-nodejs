@@ -55,6 +55,21 @@ Project developed during **Ignite Development Program** offered by [Rocketseat](
 
 ---
 
+## 'Challenges'
+
+#### NodeJS:
+
+Please follow the hyperlinks for the challenge solutions.
+
+**Chapter I**
+- [x] [Challenge: NodeJS Fundamentals](https://github.com/andregda/ignite-nodejs/tree/main/desafios/D01)
+- [ ] Challenge: Working with Middlewares
+- [ ] Challenge: Correcting the code
+
+**Chapter II**
+- [ ] Challenge: Introduction to SOLID
+- [ ] Challenge: Documenting with Swagger
+
 ## Features
 
 ---
