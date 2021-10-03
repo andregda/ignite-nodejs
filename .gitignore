@@ -1,11 +1,16 @@
 # ignore self
-# .gitignore
+.gitignore
 
 # Tutorials
 tutorials
 
 # node_modules
 **/*/node_modules
+*/node_modules
+./node_modules
 
-# git stff
+# git stuff
 **/*/.git*
+
+# vscode stuff
+**/*/.vscode

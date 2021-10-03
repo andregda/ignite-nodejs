@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Banner" title="#Banner" src="./assets/banner.jpg" />
+    <img alt="Banner" title="#Banner" src="./assets/banner-ignite-node.js.png" />
 </h1>
 
 <h1 align="center">
