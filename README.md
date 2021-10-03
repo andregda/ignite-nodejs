@@ -67,7 +67,7 @@ Please follow the hyperlinks for the challenge solutions.
 - [x] [Challenge: Correcting the code](https://github.com/andregda/ignite-nodejs/tree/main/challenges/D1.3)
 
 **Chapter II**
-- [ ] Challenge: Introduction to SOLID
+- [x] Challenge: Introduction to SOLID
 - [ ] Challenge: Documenting with Swagger
 
 ## Features
