@@ -67,8 +67,23 @@ Please follow the hyperlinks for the challenge solutions.
 - [x] [Challenge: Correcting the code](https://github.com/andregda/ignite-nodejs/tree/main/challenges/D1.3)
 
 **Chapter II**
-- [x] Challenge: Introduction to SOLID
-- [ ] Challenge: Documenting with Swagger
+- [x] [Challenge: Introduction to SOLID](https://github.com/andregda/ignite-nodejs/tree/main/challenges/D2.1)
+- [x] [Challenge: Documenting with Swagger](https://github.com/andregda/ignite-nodejs/tree/main/challenges/D2.2)
+
+**Chapter III**
+- [x] [Challenge: Database queries](https://github.com/andregda/ignite-nodejs/tree/main/challenges/D3.1)
+- [x] [Challenge: Database Modeling and Relationship](https://github.com/andregda/ignite-nodejs/tree/main/challenges/D3.2)
+
+**Chapter IV**
+- [x] [Challenge: Unit Tests](https://github.com/andregda/ignite-nodejs/tree/main/challenges/D4.1)
+- [x] [Challenge: Integration Tests](https://github.com/andregda/ignite-nodejs/tree/main/challenges/D4.2)
+
+**Chapter V**
+- [x] [Challenge: Implementing Tranfer Statement](https://github.com/andregda/ignite-nodejs/tree/main/challenges/D5.1)
+
+**Chapter VI**
+- [ ] Serviless API
+[//]: # [Challenge: Serviless API](https://github.com/andregda/ignite-nodejs/tree/main/challenges/D5.1)
 
 ## Features
 
